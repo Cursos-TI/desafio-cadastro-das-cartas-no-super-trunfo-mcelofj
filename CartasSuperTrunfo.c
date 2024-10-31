@@ -18,6 +18,6 @@ int main() {
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
     printf("Super Trunfo - Países\n");
     printf("Começando");
-
+    
     return 0;
 }
